@@ -9,6 +9,12 @@ using namespace std;
 
 int main()
 {
-	cout << " I am On GitHub" << endl;
+	cout << "I am On GitHub" << endl;
+
+	for (int i = 0; i < 14; ++i)
+	{
+		cout << "*";
+	}
+	cout << endl;
 	return 0;
 }
